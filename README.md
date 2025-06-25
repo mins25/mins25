@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 J’étudie la **Data & l’Intelligence Artificielle** à l’ESILV  
 🎨 Je suis aussi le parcours **UX-Design**, car j’adore le design et la création visuelle  
-📊 En ce moment, je me forme à la **datavisualisation avec Power BI**  
+🌱 En ce moment, je me forme à la **datavisualisation avec Power BI**  
 🌍 En septembre prochain, je pars en échange universitaire à l’**Università di Padova** en Italie
 
 
