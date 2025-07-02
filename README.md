@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 🎓 Je suis un étudiant en **Data Science & Intelligence Artificielle**  
 🎨 J’étudie aussi l'**UX-Design**, car j’adore le design et la création visuelle  
 🌱 En ce moment, je me forme à la **datavisualisation avec Power BI**  
-⚽ Je me forme aussi à manipuler des données sur **Excel** avec mon projet Moneyball-FootballManager24   
 🌍 En septembre prochain, je pars en échange universitaire à l’**Università di Padova** en Italie
 
 ---
