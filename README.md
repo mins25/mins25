@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Salut, moi c’est Minseok 👋
+## Bonjour, moi c’est Minseok 👋
 
-🎓 Je suis un étudiant en **Data Science & Intelligence Artificielle**  
-🎨 J’étudie aussi l'**UX-Design**, car j’adore le design et la création visuelle  
-🌱 En ce moment, je me forme à la **datavisualisation avec Power BI**  
-🌍 En septembre prochain, je pars en échange universitaire à l’**Università di Padova** en Italie
+- Je suis un étudiant en **Data Science & Intelligence Artificielle**  
+- J’étudie aussi l'**UX-Design** 
+- En ce moment, je travaille sur un projet de **dNamed Entity Recognition (NER), Disambiguation (NERD), et Relation Extraction (RE)** dans les résumés PubMed liés à l'axe intestin-cerveau
 
 ---
 
@@ -31,9 +30,10 @@ Here are some ideas to get you started:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
