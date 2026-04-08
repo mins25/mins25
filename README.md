@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Je suis un étudiant en **Data Science & Intelligence Artificielle**  
 - J’étudie aussi l'**UX-Design** 
-- En ce moment, je travaille sur un projet de **dNamed Entity Recognition (NER), Disambiguation (NERD), et Relation Extraction (RE)** dans les résumés PubMed liés à l'axe intestin-cerveau
+- En ce moment, je travaille sur un projet de **Named Entity Recognition (NER), Disambiguation (NERD), et Relation Extraction (RE)** dans les résumés PubMed liés à l'axe intestin-cerveau
 
 ---
 
